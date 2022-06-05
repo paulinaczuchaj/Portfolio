@@ -19,6 +19,7 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 * Project documentation preparation and analysis
 * CI/CD
 # Courses and certifiactes
+* Foundations of User Experience (UX) Desig
 * SQL Language -Santander Scholarships Program
 * Introduction to Databases and SQL Querying- Udemy
 * Salesforce Essential Training-LinkedIn Learning
