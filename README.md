@@ -30,4 +30,4 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 * Team Communication, Leadership Skills and Project Management-Fundacja Inicjatyw Młodzieżowych
 
 # My test case examples
-(ścieżka pozytywna)[https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#]
+[ścieżka pozytywna](https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#)
