@@ -32,10 +32,6 @@ ISTQB: Foundation Level - during certification
 
 # My test case examples
 [Positive test cases](https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#)\
-Negative test cases- in progress
-
-#Bug reports
-In progress 
 
 # My project in CSS/HTML 
 
