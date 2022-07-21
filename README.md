@@ -7,7 +7,7 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 * Exploratory and regression tests 
 * Automated tests in Selenium IDE 
 * API testing using Postman
-* Bug reporting
+* Bug reporting in JIRA 
 * Project documentation preparation and analysis
 * 1st line of support for app users 
 
@@ -31,7 +31,11 @@ ISTQB: Foundation Level - during certification
 * Team Communication, Leadership Skills and Project Management-Fundacja Inicjatyw Młodzieżowych
 
 # My test case examples
-[Positive test cases](https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#)
+[Positive test cases](https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#)\
+Negative test cases- in progress
+
+#Bug reports
+In progress 
 
 # My project in CSS/HTML 
 
