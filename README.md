@@ -31,7 +31,7 @@ ISTQB: Foundation Level - during certification
 * Team Communication, Leadership Skills and Project Management-Fundacja Inicjatyw Młodzieżowych
 
 # My test case examples
-[Positive test cases](https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#)\
+[Positive test cases](https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#)
 
 # My project in CSS/HTML 
 
