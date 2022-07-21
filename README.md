@@ -1,31 +1,32 @@
 # Portfolio
 # About me 
 My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in one of my previous jobs I dealt with testing as an additional task. From that moment my interest in testing started. Currently I am working as a software tester in GIS Support company in Lublin. Recently I received Santander scholarship for SQL course and in my free time I am preparing for ISTQB exam.
-# Tech Stack
-* Jira
-* Trello
-* Confluence
-* GitHub
-* Selenium IDE
-* Postman
-* Figma
-* DevTools
-* SQL
-* SCRUM
-* Agile
-* Software testing
+
+# Current job resposibilites 
 * Creating test cases
+* Exploratory and regression tests 
+* Automated tests in Selenium IDE 
+* API testing using Postman
 * Bug reporting
 * Project documentation preparation and analysis
+* 1st line of support for app users 
+
+# Tech stack 
+Databases: MySQL
+Testing: Selenium, Selenum IDE, Postman
+Version Control Systems: Git
+Other tools: Confluence, JIRA, Trello, TestLink, Figma, SQL, Scrum, DevTools
+ISTQB: Foundation Level - during certification
+
 
 # Courses and certifiactes
-* Foundations of User Experience (UX) Design
 * SQL Language -Santander Scholarships Program
 * Introduction to Databases and SQL Querying- Udemy
 * JIRA Fundamentals- Atlassian  
 * Learning Jira Software-LinkedIn Learning
 * Software Testing: Tools- LinkedIn Learning
 * DEVtools- in-house training 
+* Foundations of User Experience (UX) Design
 * Foundations of Project Management- Google 
 * Team Communication, Leadership Skills and Project Management-Fundacja Inicjatyw Młodzieżowych
 
