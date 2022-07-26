@@ -12,11 +12,11 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 * 1st line of support for app users 
 
 # Tech stack 
-Databases: MySQL
-Testing: Selenium, Selenum IDE, Postman
-Version Control Systems: Git
-Other tools: Confluence, JIRA, Trello, TestLink, Figma, SQL, Scrum, DevTools
-ISTQB: Foundation Level - during certification
+* Databases: MySQL
+* Testing: Selenium, Selenum IDE, Postman
+* Version Control Systems: Git
+* Other tools: Confluence, JIRA, Trello, TestLink, Figma, SQL, Scrum, DevTools
+* ISTQB: Foundation Level - during certification
 
 
 # Courses and certifiactes
