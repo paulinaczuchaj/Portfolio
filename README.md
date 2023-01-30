@@ -1,6 +1,6 @@
 # Portfolio
 # About me 
-My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in one of my previous jobs I dealt with testing as an additional task. From that moment my interest in testing started. Currently I am working as a software tester in GIS Support company in Lublin. Recently I received Santander scholarship for SQL course and in my free time I am preparing for ISTQB exam.
+My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in one of my previous jobs I dealt with testing as an additional task. From that moment my interest in testing started. Currently I am working as a software tester in Predict Systems.
 
 # Current job resposibilites
 * Creating test cases
@@ -12,9 +12,9 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 * 1st line of support for app users 
 
 # Tech stack 
-* **Testing**: Selenium, Selenum IDE, Postman, SQL
+* **Testing**: Swagger, Postman
 * **Version Control Systems**: Git
-* **Other tools**: Confluence, JIRA, Trello, TestLink, Figma, SQL, Scrum, DevTools
+* **Other tools**: Confluence, JIRA, Trello, TestLink, Figma, SQL, Scrum, DevTools, 
 * **ISTQB: Foundation Level** - during certification
 
 
@@ -32,5 +32,5 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 # My test case examples
 [Positive test cases](https://docs.google.com/document/d/1ho-UH3BU3c3q3g4pbaoWrF238O0MqoF1/edit#)
 
-# My project in CSS/HTML 
+
 
