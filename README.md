@@ -2,14 +2,12 @@
 # About me 
 My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in one of my previous jobs I dealt with testing as an additional task. From that moment my interest in testing started. Currently I am working as a software tester in Predict Systems.
 
-# Current job resposibilites
-* Creating test cases
-* Exploratory and regression tests, UAT testing
-* Automated tests in Selenium IDE 
-* API testing using Postman
-* Bug reporting in JIRA 
-* Project documentation preparation and analysis
-* 1st line of support for app users 
+* Developing and maintaining test scenarios for web and mobile application using JIRA, Confluence, DevTools, Testlink
+* Performing exploratory, acceptance and regression testing
+* Reporting software defects and quality threats in Jira
+* Collaborating with the data science and UX/UI department, make suggestions for improvements in Figma and Jira
+* Working with English speaking Scrum team of developers and designers in process of software development
+* API testing using Postman and Swagger, preparation of automated tests and reports in Newman
 
 # Tech stack 
 * **Testing**: Swagger, Postman
@@ -19,6 +17,9 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 
 
 # Courses and certifiactes
+* Backend School od Testing II- Bartosz Kita
+* Firebase fundamentals- Udemy
+* Introduction to Python & Apps- Code First Girls
 * **SQL Language** -Santander Scholarships Program
 * **Introduction to Databases and SQL Querying**- Udemy
 * **JIRA Fundamentals**- Atlassian  
@@ -26,7 +27,7 @@ My name is Paulina Czuchaj. I am a Master of Science in Biotechnology, but in on
 * **Software Testing: Tools**- LinkedIn Learning
 * **DEVtools**- in-house training 
 * **Foundations of User Experience (UX) Design**- Google
-* F**oundations of Project Management**- Google 
+* **Foundations of Project Management**- Google 
 * **Team Communication, Leadership Skills and Project Management**-Fundacja Inicjatyw Młodzieżowych
 
 # My test case examples
